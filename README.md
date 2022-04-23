@@ -1,5 +1,5 @@
-# HealthApp
-# Author: Rebecca Weiss
+# HealthApp Data
+## Author: Rebecca Weiss
 
 
 Data mining project to run analyses and visualize data from the Apple Health app
