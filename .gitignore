@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 .DS_Store
-apple_health_export/
+apple_health_export/*
+!apple_health_export/activity_summary.csv
