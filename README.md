@@ -11,5 +11,6 @@ Data explored first is the activity summary and workout data, but also could do 
 
 ## import_clean
 imports XML data, converts to dictionary, cleans columns/data types
-workouts and activity summary data done, saved as workouts.csv and activitysummary.csv, respectively 
+workouts and activity summary data done so far, saved data/workouts.csv and data/activitysummary.csv
+
 
