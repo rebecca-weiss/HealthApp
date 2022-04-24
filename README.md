@@ -16,6 +16,13 @@ imports XML data, converts to dictionary, cleans columns/data types
 workouts and activity summary data done so far, saved data/workouts.csv and data/activitysummary.csv
 
 
+
+
+
+
+
+
+
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-[![Connect with me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeccajweiss33/)
+Connect with me [![Connect with me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeccajweiss33/)
