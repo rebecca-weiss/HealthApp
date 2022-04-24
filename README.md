@@ -1,14 +1,15 @@
 # HealthApp Data
 
 Data mining project to run analyses and visualize data from the Apple Health app from 1/1/2016 - 4/1/2022
-``` .gitignore
+``` 
+.gitignore
 README.md
 data
    |-- activitysummary.csv
    |-- workouts.csv
-import_clean.ipynb ```
+import_clean.ipynb 
 
-
+```
 
 
 *Notes: folder called 'apple_health_export' where all data is, but is massive so in .gitignore
