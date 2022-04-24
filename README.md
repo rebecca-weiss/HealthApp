@@ -1,5 +1,5 @@
 # HealthApp Data
-## Author: Rebecca Weiss
+
 
 
 
@@ -31,5 +31,5 @@ workouts and activity summary data done so far, saved data/workouts.csv and data
 
 
 
-# Connect with me 
+## Author: Rebecca Weiss
 [![Connect with me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeccajweiss33/)
