@@ -6,6 +6,8 @@
 
 Data mining project to run analyses and visualize data from the Apple Health app from 1/1/2016 - 4/1/2022
 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 
 *Notes: folder called 'apple_health_export' where all data is, but is massive so in .gitignore
 
@@ -26,7 +28,6 @@ workouts and activity summary data done so far, saved data/workouts.csv and data
 
 
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 
 
