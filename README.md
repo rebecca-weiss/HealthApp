@@ -1,6 +1,8 @@
 # HealthApp Data
 ## Author: Rebecca Weiss
 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{rebecca-weiss}1212%2Fhit-counter
 
 Data mining project to run analyses and visualize data from the Apple Health app from 1/1/2016 - 4/1/2022
 
