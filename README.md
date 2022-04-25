@@ -1,4 +1,4 @@
-# HealthApp Data
+# HealthApp Data (in progress)
 
 Data mining project to run analyses and visualize data from the Apple Health app from 1/1/2016 - 4/1/2022
 ``` 
@@ -9,9 +9,11 @@ data
    |-- activitysummary.csv
    |-- steps.csv
    |-- workouts.csv
+dataviz.py
+fxns.py
 get_steps.py
 import_clean.ipynb
-
+steps_viz.ipynb
 ```
 
 Data explored first is the activity summary and workout data, but also could do general health (HR, HRV) found in `apple_health_export/all_records.csv` with a lot large data files
