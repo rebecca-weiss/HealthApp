@@ -22,7 +22,9 @@ Imports XML data, converts to dictionary, cleans columns/data types
 * As of 4/25/2022: steps data extracted from `all_records.csv` and cleaned using `get_steps.py`
 
 
-
+## visualize
+* `app.py` ia a plotly / dash interactive dashboard: in progress
+* `dataviz.py` is working progress of visualizations (matplotlib, plotly): in progress
 
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
