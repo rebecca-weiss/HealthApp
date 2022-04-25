@@ -15,15 +15,15 @@ import_clean.ipynb
 ```
 
 
-*Notes: folder called 'apple_health_export' where all data is, but is massive so in .gitignore
+*Notes: folder called 'apple_health_export' where all data is and massive
 
-Data explored first is the activity summary and workout data, but also could do general health (steps, HR, HRV) found in "all_records.csv"
+Data explored first is the activity summary and workout data, but also could do general health (HR, HRV) found in "all_records.csv"
 
 ## import_clean
 imports XML data, converts to dictionary, cleans columns/data types
 workouts and activity summary data done so far, saved data/workouts.csv and data/activitysummary.csv
 
-
+* Note: steps data extracted from `all_records.csv` and cleaned using get_steps.py
 
 
 
