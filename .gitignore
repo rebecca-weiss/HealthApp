@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 .DS_Store
 apple_health_export/*
-__pycache__/
+__pycache__/*
