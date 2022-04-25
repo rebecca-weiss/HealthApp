@@ -13,6 +13,10 @@ dataviz.py
 fxns.py
 get_steps.py
 import_clean.ipynb
+output
+   |-- 7day_steps.png
+   |-- avg_steps_weekDay.png
+   |-- total_stepspyear.png
 steps_viz.ipynb
 ```
 
