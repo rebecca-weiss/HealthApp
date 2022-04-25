@@ -1,3 +1,4 @@
+
 import dash
 # import dash_core_components as dcc
 from dash import dcc
@@ -11,7 +12,8 @@ app = dash.Dash()
 
 df = pd.read_csv("data/workouts.csv")
 
-fig = px.scatter(
+
+fig = px.histogram(
     df,
     x="duration",
     y="totalEnergyBurned",
