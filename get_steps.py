@@ -28,8 +28,6 @@ steps_df = steps_df.iloc[:, 1:9]
 # group steps by date
 # steps_date = steps_df.groupby(['creationDate']).sum()
 
-# change name to make simpler of type
-
 # convert/string replace for easier naming
 steps_df['type'] = steps_df['type'].str.replace('HKQuantityTypeIdentifier', '')
 
