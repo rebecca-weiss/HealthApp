@@ -4,10 +4,13 @@ Data mining project to run analyses and visualize data from the Apple Health app
 ``` 
 .gitignore
 README.md
+app.py
 data
    |-- activitysummary.csv
+   |-- steps.csv
    |-- workouts.csv
-import_clean.ipynb 
+get_steps.py
+import_clean.ipynb
 
 ```
 
